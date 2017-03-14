@@ -33,6 +33,7 @@
 		0758297518043C0F006358BE /* wordbuf.c in Sources */ = {isa = PBXBuildFile; fileRef = 0758294218043C0F006358BE /* wordbuf.c */; };
 		0758297618043C0F006358BE /* wordlist.c in Sources */ = {isa = PBXBuildFile; fileRef = 0758294418043C0F006358BE /* wordlist.c */; };
 		07C530C21804CE2700B13C71 /* OCMigemo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 07C530C01804CC6A00B13C71 /* OCMigemo.bundle */; };
+		E357FEFA1CFAFEE500BAF75F /* OCMigemo.bundle in CopyFiles */ = {isa = PBXBuildFile; fileRef = 07C530C01804CC6A00B13C71 /* OCMigemo.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 			dstSubfolderSpec = 16;
 			files = (
 				075828611803FC1C006358BE /* OCMigemo.h in CopyFiles */,
+				E357FEFA1CFAFEE500BAF75F /* OCMigemo.bundle in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
